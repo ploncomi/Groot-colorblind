@@ -1,5 +1,13 @@
 [![Build Status](https://travis-ci.org/BehaviorTree/Groot.svg?branch=master)](https://travis-ci.org/BehaviorTree/Groot)
 
+# Fork note:
+
+In this fork, the colors for the text cells are changed, for helping color blind people:
+* Blue is used for successful nodes (previously green was used)
+* Green is used for running nodes (previously orange was used)
+* Black is used for failure nodes (previously red was used)
+
+
 # DEPRECATION notice
 
 Groot is being rewritten from the ground up (https://www.behaviortree.dev/groot). 
